@@ -1,0 +1,8 @@
+{
+  "name": "SustainaBite",
+  "description": "A farm-to-table marketplace connecting local producers with consumers, featuring Food Buddy AI recipe generation and deal finding.",
+  "requestFramePermissions": [
+    "geolocation",
+    "microphone"
+  ]
+}
