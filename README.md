@@ -11,10 +11,10 @@ SustainaBite is an AI-powered food platform that uses the Gemini 2.5 Flash model
 
 ## 📸 Screenshots
 <p align="center">
-  <img src="screenshots/main.png" width="340">
-  <img src="screenshots/chat.png" width="340">
-  <img src="screenshots/business.png" width="340">
-  <img src="screenshots/driver.png" width="340">
+  <img src="assets/screenshots/main.png" width="340">
+  <img src="assets/screenshots/chat.png" width="340">
+  <img src="assets/screenshots/business.png" width="340">
+  <img src="assets/screenshots/driver.png" width="340">
 </p>
 
 ## ✨ Key Features
