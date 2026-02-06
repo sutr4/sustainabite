@@ -9,14 +9,14 @@ SustainaBite is a circular economy food platform that optimizes the connection b
 SustainaBite is an AI-powered food platform that uses the Gemini 2.5 Flash model to optimize perishable inventory, surface surplus via “Rescue Mode” discounts, and coordinate real-time local delivery to reduce food waste.
 
 ## ✨ Key Features
-- 🤖 **AI-Powered "Food Buddy" Assistant**: Gemini-powered chatbot with Google Maps grounding for inventory-aware recipes and local search.
-- 👥 **Triple-Role Ecosystem**: 
-  - 🛒 **Consumers**: Browse local listings, track deliveries, access eco-discounts.
-  - 🚜 **Businesses**: Manage inventory, orders, and sales analytics.
-  - 🚚 **Drivers**: Accept delivery jobs with navigation and live status.
-- ⏰ **Dynamic "Rescue Mode"**: Dynamic filtering of surplus inventory with discounted pricing.
-- 📈 **Profit & Sales Analytics**: Revenue, product performance, and customer insights.
-- 📱 **Modern Responsive UI**: Mobile-first design with Light/Dark mode and optimized state management.
+- **AI-Powered "Food Buddy" Assistant**: Gemini-powered chatbot with Google Maps grounding for inventory-aware recipes and local search.
+- **Triple-Role Ecosystem**: 
+  - **Consumers**: Browse local listings, track deliveries, access eco-discounts.
+  - **Businesses**: Manage inventory, orders, and sales analytics.
+  - **Drivers**: Accept delivery jobs with navigation and live status.
+- **Dynamic "Rescue Mode"**: Dynamic filtering of surplus inventory with discounted pricing.
+- **Profit & Sales Analytics**: Revenue, product performance, and customer insights.
+- **Modern Responsive UI**: Mobile-first design with Light/Dark mode and optimized state management.
 
 ## ⚠️ The Problem
 Local food systems face last-mile inefficiencies that cause producers to discard surplus inventory while consumers deal with rising costs and limited sourcing transparency. SustainaBite addresses this by:
