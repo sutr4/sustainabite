@@ -88,7 +88,7 @@ npm run dev
 ## 👥 Team
 - **Tracy Su** - [GitHub](https://github.com/sutr4) | [LinkedIn](https://linkedin.com/in/tracysu6)
 - **Khushi Maan** - [GitHub](https://github.com/Khusheemaan) | [LinkedIn](https://www.linkedin.com/in/khushi-maan-729a89284/)
-- **Aqeelah Ghadiyali** - [LinkedIn](https://www.linkedin.com/in/aqeelah-ghadiyali-202410362/)
+- **Aqeelah Ghadiyali** - [GitHub](https://github.com/Kot-ux) | [LinkedIn](https://www.linkedin.com/in/aqeelah-ghadiyali-202410362/)
 
 ## 🙏 Acknowledgments
 - Thanks to [ElleHacks](https://ellehacks.com/) for hosting this amazing hackathon!
